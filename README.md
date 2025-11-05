@@ -21,4 +21,4 @@ It includes modules for:
 
 ---
 
-![Login Screen](https://res.cloudinary.com/xxxx/image/upload/v1234567890/login.png)
+![Login Screen](https://res.cloudinary.com/dzmqueqwy/image/upload/v1234567890/login.png)
