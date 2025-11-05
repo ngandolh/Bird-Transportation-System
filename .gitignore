@@ -1,0 +1,21 @@
+# Ignore build and user-specific files
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.cache
+*.log
+*.vshost.*
+*.dbmdl
+*.bak
+*.tmp
+*.pdb
+
+# Ignore system files
+Thumbs.db
+*.DS_Store
+
+# Ignore IDE stuff
+.idea/
+.vscode/
